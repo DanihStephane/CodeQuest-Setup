@@ -9,6 +9,8 @@
 
 ![Portfolio Preview](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&q=80&w=1170)
 
+![Capture d’écran du 2025-01-04 18-55-15](https://github.com/user-attachments/assets/e0b427f0-193c-490b-ab1f-43d097f0dc6b)
+
 ## ✨ Caractéristiques
 
 - 🎮 **Interface Gamifiée**: Exploration interactive des compétences et projets
@@ -45,7 +47,7 @@ npm run dev
 
 ## 📁 Structure du Projet
 
-\`\`\`
+```
 codequest/
 ├── src/
 │   ├── components/
@@ -66,7 +68,7 @@ codequest/
 │   └── types/
 │       └── index.ts              # Types TypeScript
 └── ...
-\`\`\`
+```
 
 ## 🎯 Sections Principales
 
@@ -151,8 +153,8 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📄 License
 
-MIT © [Votre Nom]
+free : https://github.com/DanihStephane
 
 ---
 
-Créé avec ❤️ par [Votre Nom]
+Créé avec ❤️ par https://www.linkedin.com/in/danihstephane
